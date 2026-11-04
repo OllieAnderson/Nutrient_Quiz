@@ -1,9 +1,42 @@
-Answer,Question,Group_1,Group_2,Notes
-A,A,1,1,
-B,B,1,1,
-C,C,1,2,
-D,D,1,3,
-E,E,2,,
-F,F,2,,
-G,G,2,,
-H,H,2,,
+Answer	Question	Group_1	Group_2	Notes
+Protein	Builds and repairs muscles, skin, organs and other tissues. Produces enzymes, hormones and antibodies.	Nutrient Function	Macronutrients	Soy chunks, tofu, tempeh, seitan, lentils, chickpeas, beans, peas, nuts and seeds
+Carbohydrates	Main source of energy for the brain, muscles and nervous system.	Nutrient Function	Macronutrients	Rice, oats, potatoes, pasta, bread, fruit, beans and vegetables
+Fat	Provides energy, builds cell membranes, protects organs and helps absorb vitamins A, D, E and K.	Nutrient Function	Macronutrients	Olive oil, rapeseed oil, avocado, nuts, seeds, tahini and coconut
+Fibre	Supports digestion, feeds beneficial gut bacteria, helps regulate blood sugar and cholesterol.	Nutrient Function	Macronutrients	Lentils, beans, chickpeas, oats, wholegrains, vegetables, fruit, chia and flaxseed
+Water	Transports nutrients, regulates temperature, supports chemical reactions and removes waste.	Nutrient Function	Vitamins;Vitamins, Fat Soluble	Drinking water, soups, fruit and vegetables
+A	Supports eyesight, immune function, skin and cell growth.	Nutrient Function	Vitamins;Vitamins, Fat Soluble	Carrots, sweet potatoes, spinach, kale, pumpkin and red peppers (beta-carotene)
+D	Helps absorb calcium and phosphorus; maintains bones, teeth and muscle function.	Nutrient Function	Vitamins;Vitamins, Fat Soluble	UV-exposed mushrooms (D2), fortified plant milks, fortified cereals and supplements
+E	Antioxidant that protects cells from damage. Supports immune function.	Nutrient Function	Vitamins;Vitamins, Fat Soluble	Sunflower seeds, almonds, hazelnuts, wheat germ, sunflower oil and avocado
+K	Essential for blood clotting and maintaining healthy bones.	Nutrient Function	Vitamins;Vitamins, Fat Soluble	Kale, spinach, broccoli, cabbage, Brussels sprouts and other leafy greens
+B1 (Thiamine)	Helps convert carbohydrates into energy; supports nerve function.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Sunflower seeds, oats, wholegrain bread, beans and lentils
+B2 (Riboflavin)	Helps release energy from food; supports skin, eyes and cell function.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Almonds, mushrooms, fortified plant milks, nutritional yeast and soybeans
+B3 (Niacin)	Supports energy production, DNA repair and nervous system function.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Peanuts, mushrooms, wholegrains, potatoes and legumes
+B5 (Pantothenic acid)	Helps produce hormones and metabolise fats and carbohydrates.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Mushrooms, avocado, sunflower seeds, lentils and broccoli
+B6 (Pyridoxine)	Supports protein metabolism, brain function and red blood cell production.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Chickpeas, potatoes, bananas, pistachios and fortified cereals
+B7 (Biotin)	Helps metabolise fats, carbohydrates and proteins.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Peanuts, sunflower seeds, almonds, soybeans and sweet potatoes
+B9 (Folate)	Essential for DNA production, cell division and red blood cell formation.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Lentils, chickpeas, beans, spinach, asparagus, broccoli and avocado
+B12 (Cobalamin)	Essential for nerve function, DNA production and healthy red blood cells.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Fortified nutritional yeast, fortified plant milks, fortified cereals and supplements
+C (Ascorbic acid)	Supports collagen production, wound healing, immune function and iron absorption. Also acts as an antioxidant.	Nutrient Function	Vitamins;Vitamins, Water Soluble	Peppers, broccoli, kiwi, oranges, strawberries, potatoes and Brussels sprouts
+Calcium	Builds bones and teeth; supports muscle contraction, nerve signalling and blood clotting.	Nutrient Function	Minerals	Calcium-set tofu, fortified soy milk, sesame seeds, tahini, kale, pak choi and fortified plant yoghurt
+Iron	Produces haemoglobin, which transports oxygen around the body.	Nutrient Function	Minerals	Soy chunks, lentils, kidney beans, chickpeas, tofu, pumpkin seeds, spinach and fortified cereals
+Magnesium	Supports muscle and nerve function, energy production and hundreds of enzyme reactions.	Nutrient Function	Minerals	Pumpkin seeds, chia seeds, almonds, cashews, dark chocolate, oats, beans and wholegrains
+Potassium	Regulates fluid balance, nerve signals, muscle contractions and blood pressure.	Nutrient Function	Minerals	Potatoes, bananas, beans, lentils, spinach, tomatoes, avocado and dried apricots
+Sodium	Maintains fluid balance and supports nerve and muscle function.	Nutrient Function	Minerals	Table salt, soy sauce, miso, olives and naturally occurring sodium in vegetables
+Phosphorus	Builds bones and teeth; helps produce ATP, the body's main energy-carrying molecule.	Nutrient Function	Minerals	Soybeans, tofu, lentils, beans, nuts, seeds and wholegrains
+Zinc	Supports immunity, wound healing, DNA production and cell growth.	Nutrient Function	Minerals	Pumpkin seeds, hemp seeds, oats, chickpeas, lentils, tofu, cashews and wholegrains
+Iodine	Required to produce thyroid hormones, which regulate metabolism and development.	Nutrient Function	Minerals	Iodised salt, some seaweeds and fortified plant milks
+Selenium	Supports thyroid function, antioxidant defence and immune function.	Nutrient Function	Minerals	Brazil nuts, sunflower seeds, wholegrains, beans and mushrooms
+Copper	Helps produce red blood cells, maintain connective tissue and metabolise iron.	Nutrient Function	Minerals	Cashews, sunflower seeds, sesame seeds, lentils, chickpeas and cocoa
+Manganese	Supports bone formation, metabolism and antioxidant enzymes.	Nutrient Function	Minerals	Oats, brown rice, nuts, legumes, tea and wholegrains
+Chromium	May contribute to normal insulin function and macronutrient metabolism.	Nutrient Function	Minerals	Broccoli, wholegrains, green beans, nuts and potatoes
+Molybdenum	Helps enzymes break down certain compounds, including sulphites.	Nutrient Function	Minerals	Lentils, peas, beans, chickpeas and wholegrains
+Fluoride	Strengthens tooth enamel and helps prevent tooth decay.	Nutrient Function	Minerals	Fluoridated drinking water, tea and some foods prepared with fluoridated water
+Omega-3 (ALA)	Supports cell membranes and can be converted into EPA and DHA.	Nutrient Function	Essential fatty acids 	Ground flaxseed, chia seeds, walnuts, hemp seeds and rapeseed oil
+Omega-3 (EPA)	Helps regulate inflammation and supports cardiovascular function.	Nutrient Function	Essential fatty acids 	Algae oil supplements; the body can also convert some ALA into EPA
+Omega-3 (DHA)	Important for brain function, eyesight and nervous system development.	Nutrient Function	Essential fatty acids 	Algae oil supplements and some DHA-fortified foods
+Omega-6 (Linoleic acid)	Supports skin health, cell membranes and normal growth.	Nutrient Function	Essential fatty acids 	Sunflower oil, safflower oil, sunflower seeds, pumpkin seeds, walnuts and soybeans
+Choline	Supports brain function, cell membranes and liver health.	Nutrient Function	Other Compounds	Soybeans, tofu, quinoa, broccoli, peanuts, kidney beans and cauliflower
+Carotenoids	Plant pigments; some, such as beta-carotene, can be converted into vitamin A.	Nutrient Function	Other Compounds	Carrots, sweet potatoes, spinach, kale, tomatoes and red peppers
+Polyphenols	Plant compounds with antioxidant and other biological activities.	Nutrient Function	Other Compounds	Berries, apples, tea, coffee, cocoa, olives, herbs and spices
+Creatine	Helps rapidly regenerate energy in muscles during intense exercise.	Nutrient Function	Other Compounds	Available as synthetic creatine monohydrate supplements; No significant natural dietary vegan sources
+Phytosterols	Plant compounds that can help reduce cholesterol absorption.	Nutrient Function	Other Compounds	Vegetable oils, nuts, seeds, legumes, wholegrains and avocados
